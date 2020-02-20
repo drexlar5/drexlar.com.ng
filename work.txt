@@ -1,0 +1,57 @@
+drexlar.com.ng
+=========
+
+Michael Agboola
+Software Developer, Terragon Group
+Full-Stack / NodeJS / Python / React / React Native
+
+Contact
+-------
+
+* drexlar dot com dot ng
+* drexlar37 at gmail dot com
+* Michael Agboola on LinkedIn
+* @drexlar01 on Twitter
+
+Projects
+--------
+
+* savests on playstore
+* Apptiku on playstore
+* www.github.com/drexlar5/taxi-hailing-demo-app
+and of course...
+* www.drexlar.com.ng
+
+Technologies
+-----------
+
+    Languages:
+        * Javascript (NodeJS, expressJS, restify)
+        * Python
+        * PHP
+
+    Frameworks:
+        * React Native
+        * Codeigniter
+        * flask
+
+    Queues:
+        * RabbitMQ
+        * Kafka
+        * AWS SQS
+
+    Databases:
+        * MongoDB
+        * Elasticsearch
+        * Redis
+        * MySql
+        * AWS S3
+
+    Deployment:
+        * Digitalocean
+        * Docker
+        * Kubernetes
+
+* Knowledge of Micro-services, Serveless(AWS lambda)
+
+
